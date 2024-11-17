@@ -29,3 +29,6 @@
 ^mads\.
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
+
+# zx's
+^metric.?[0-9]*[_.-]
